@@ -1,0 +1,21 @@
+html {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h3 {
+    font-size: 20px;
+}
+#score {
+    font-size: 15px;
+}
+#images {
+    display: flex;
+    align-content: center;
+    flex-direction: row;
+}
+.image_button {
+    width: 400px;
+    height: auto;
+    border: 3px solid black;
+    border-radius: 4px;
+}
